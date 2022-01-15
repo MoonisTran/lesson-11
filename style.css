@@ -1,0 +1,41 @@
+.myDiv {
+    border: 2px outset;
+    background-image: url("https://st3.depositphotos.com/1592314/15511/i/1600/depositphotos_155112150-stock-photo-abstract-acrylic-color-background-stone.jpg");
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 16px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    margin-left: auto; 
+    margin-top: 80px; 
+    margin-right: auto;
+    width: 950px;
+    border-radius: 15px;
+    }  
+body
+{
+    background-color:rgb(211, 230, 193)
+}
+.titleName
+{
+    color: rgb(21, 100, 25);
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 20px;
+    font-family: Forte;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 16px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+ul 
+{
+    list-style-type: none; 
+}
+span
+{
+    font-size: 25px;
+}
+button{
+    background-color: rgba(232, 240, 233, 0.911);
+    color:rgb(58, 80, 58);
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 16px 0 rgba(0, 0, 0, 0.19);
+}
