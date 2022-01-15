@@ -55,7 +55,7 @@ function add() {
         counter++;
         let putInDetail = prompt ("Nhập chi tiết:")
         const paraDetail = document.createElement("p");
-        paraDetail.innerHTML = `Details ${counter}: ${putInDetail}`
+        paraDetail.innerHTML = `Detail ${counter}: ${putInDetail}`
         div.appendChild(paraDetail)
     }   
     list.appendChild(div)
